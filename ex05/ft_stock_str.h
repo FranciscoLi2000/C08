@@ -1,6 +1,7 @@
 #ifndef FT_STOCK_STR_H
 # define FT_STOCK_STR_H
 
+# include <unistd.h>
 # include <stdlib.h>
 # include <string.h>
 # include <stdio.h>
